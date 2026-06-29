@@ -1,0 +1,1 @@
+I want to generate 20 novel, drug-like molecules from scratch using GenMol. Do not use a scaffold—perform pure de novo generation and rank the results by drug-likeness. Use the hosted NVIDIA API (my NGC_API_KEY is already set in the environment). Generate a Jupyter notebook for this task, and visualize the generated molecular structures using RDKit.

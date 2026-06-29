@@ -1,0 +1,6 @@
+.venv
+skills/
+temp.txt
+.ipynb_checkpoints
+.jupyter_ystore.db
+.jupyter
