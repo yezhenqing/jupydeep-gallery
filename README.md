@@ -19,7 +19,8 @@ Here, you will find hands-on demonstrations showing how JupyDeep agents act as i
 ## 🚀 Getting Started
 
 ### Prerequisites
-To run the notebooks in this gallery, you need a functional JupyterLab environment with `JupyDeep` installed, and other necessary Python packages. **Please follow the JupyDeep documentation for further configuration and `environment setup<>`_ **
+
+To run the notebooks in this gallery, you will need a functional JupyterLab environment with `JupyDeep` and its required Python dependencies installed. Please refer to the [JupyDeep Documentation](https://yezhenqing.github.io/jupydeep/en/notebooks/biology/bioenv.html) for detailed environment setup and configuration guidelines.
 
 ---
 
