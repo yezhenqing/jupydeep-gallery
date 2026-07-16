@@ -13,7 +13,7 @@ Here, you will find hands-on demonstrations showing how JupyDeep agents act as i
 *   **`BioNeMo Agent Toolkit`**
 
 ### 🧬 2. Miscellaneous
-*   **`Coming soon`**
+*   **`RKernel Demo`**
 ---
 
 ## 🚀 Getting Started
